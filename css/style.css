@@ -1,0 +1,19 @@
+#tasks div {
+    display: flex;
+    gap: 10px;
+    margin-top: 30px;
+}
+
+#tasks li {
+    list-style: none;
+    border: 1px solid;
+    padding: 10px 20px;
+    width: 200px;
+}
+
+#tasks button{
+    background-color: red;
+    border: 0px;
+    color: antiquewhite;
+    padding: 0px 32px;
+}
